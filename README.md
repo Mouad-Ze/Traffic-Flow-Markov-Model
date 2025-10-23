@@ -132,20 +132,12 @@ Detailed project documentation is available in the `docs/` directory, including:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 👥 Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
+- Mouad Zemzoumi
 
 ## 🙏 Acknowledgments
 
 - Research conducted as part of Stochastic Processes coursework
 - Data provided by taxi stand metadata
 - Markov chain methodology based on traffic flow theory
-
-## 📞 Contact
-
-For questions or contributions, please contact [your.email@example.com](mailto:your.email@example.com)
